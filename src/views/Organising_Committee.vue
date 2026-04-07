@@ -32,7 +32,7 @@
             <br /><span class="heading">Coordinators / Organizing Secretaries</span><br />
             <span>Dr. R. N. Patel, NIT Raipur</span><br />
             <span>Dr. Monalisa Biswal, NIT Raipur</span><br />
-            <span>Dr. Surajt Sannigrahi, NIT Raipur</span><br />
+            <span>Dr. Surajit Sannigrahi, NIT Raipur</span><br />
             <span>Dr. Saurav Raj, NIT Raipur</span><br />
 
             <br /><span class="heading">Publication Chairs</span><br />
