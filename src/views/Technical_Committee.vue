@@ -17,11 +17,7 @@
           <span>Dr. Kalyan Chatterjee, IIT (ISM) Dhanbad</span><br />
           <span>Dr. Nitika Vats Doohan, SAGE University, Indore</span><br />
           <span>Dr. Shailendra Kumar Sharma, SGSITS, Indore</span><br />
-          <span>Mrs. Shravani Mathur, IEEE MP Section</span><br />
-          <span>Mr. Akhilesh Tripathi, RRCAT, Indore</span><br />
-          <span>Mrs. Rinki Upadhyay, RRCAT, Indore</span><br />
-          <span>Dr. Ashish Singhal, SISTE Bhopal</span><br />
-          <span>Dr. Rohit Bhakar, MNIT Jaipur</span><br />
+          <span>Dr. Rohit Bhakar, MNIT, Jaipur </span><br />
           <span>Dr. Srinivas Bhaskar Karanki, IIT Bhubaneswar</span><br />
           <span>Dr. O. H. Gupta, NIT Jamshedpur</span><br />
           <span>Dr. Papia Ray, VSSUT Burla</span><br />

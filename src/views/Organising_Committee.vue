@@ -16,15 +16,17 @@
 
             <br /><span class="heading">Patron(s)</span><br />
             <span>Prof. Dr. Guru Prasad Subas Chandra Mishra, Dean (R&C), NIT Raipur</span><br />
-            <span>Dr. Geetam Tomar, Chair IEEE Madhya Pradesh Section</span><br />
-            <span>Shri. M K Badapanda, Chair IEEE PELS & IAS Madhya Pradesh Chapters</span><br />
+            <span>Dr. Geetam Tomar, Director, Govt Engg. College, Sonbhadra, UP </span><br />
+            <span>Shri. M K Badapanda, RRCAT, Indore, Madhya Pradesh</span><br />
 
             <br /><span class="heading">Honorary Chair</span><br />
-            <span>Prof. Ashok Kumar Pradhan, IIT Kharagpur</span><br />
-            <span>Prof. N. P. Padhy, MNIT Jaipur</span><br />
-            <span>Prof. Nikos Hatziargyriou, NTUA, Greece</span><br />
             <span>Prof. Kashem Muttaqi, University of Wollongong, Australia</span><br />
+            <span>Prof. Vivek Agarwal, IIT Bombay</span><br />
             <span>Prof. Sanjib Panda, NUS Singapore</span><br />
+            <span>Prof. Nikos Hatziargyriou, NTUA, Greece</span><br />
+            <span>Prof. N. P. Padhy, MNIT Jaipur</span><br />
+            <span>Prof. Ashok Kumar Pradhan, IIT Kharagpur</span><br />
+          
 
             <br /><span class="heading">General Chair / Chairperson</span><br />
             <span>Prof. Sachin Jain, HOD, Dept. of Electrical Engineering, NIT Raipur</span><br />

@@ -14,7 +14,7 @@
         <hr class="red title-hr" />
         <p class="article">
           <span>Prof. Bikash Pal, Imperial College London</span><br />
-          <span>Prof. Ayman El-Refaie, President IAS IEEE</span><br />
+          <span>Prof. Ayman El-Refaie, Marquette University, USA</span><br />
           <span>Prof. Sanjib Panda, National University of Singapore, Singapore</span><br />
           <span>Prof. Frede Blaabjerg, Aalborg University, Denmark</span><br />
           <span>Prof. Jih-Sheng (Jason) Lai, Virginia Tech, USA</span><br />
