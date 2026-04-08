@@ -2,19 +2,19 @@
 
   <div>
     <section class="sections mb-5">
-      <h4 class="font-weight-bold mt-3 text-center" id="head">
+      <!-- <h4 class="font-weight-bold mt-3 text-center" id="head">
         <strong>TECHNICAL SPONSORS</strong>
-      </h4>
+      </h4> -->
 
       <hr class="red title-hr" />
 
        
-        <div class="sponsor-grid">
+        <!-- <div class="sponsor-grid">
           <img src="@/assets/partners/ieee_mp_section.jpg" alt="IEEE MP Section" />
           <img src="@/assets/partners/ieeespons.png" alt="IEEE Sponsor" />
           <img src="@/assets/partners/pels.png" alt="PELS" />
           <img src="@/assets/partners/ias.png" alt="IAS" />
-        </div>
+        </div> -->
       
     </section>
 
@@ -70,9 +70,9 @@
         <!-- </div> -->
 
         <div class="sectionss mb-5">
-          <p style="color:red">
+          <!-- <p style="color:red">
             All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which is Scopus indexed and the eligible presented papers in the conference may be further reviewed for their publication in the IEEE Transaction on Industry Applications or IEEE IAS Magazine.
-          </p>
+          </p> -->
           <h4 id="head">Previous conference proceedings links</h4>
           <ul>
             <li>

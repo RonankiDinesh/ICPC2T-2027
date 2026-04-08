@@ -1,130 +1,87 @@
 <template>
-  <!-- Navigation -->
   <header>
-    <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark unique-color">
-      <!-- Navbar brand -->
-      <!-- <a class="navbar-brand" href="#">ICPC2T</a> -->
-
-      <!-- Collapse button -->
+      
+      <!-- Toggle button -->
       <button
         class="navbar-toggler"
         type="button"
         data-toggle="collapse"
         data-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
       >
         <span class="navbar-toggler-icon"></span>
       </button>
 
-      <!-- Collapsible content -->
+      <!-- Navbar content -->
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <!-- Links -->
-        <ul class="navbar-nav mr-auto">
-          <a class="nav-link">Home</a>
-          <!-- Dropdown -->
+
+        <ul class="navbar-nav mx-auto align-items-center">
+
+          <!-- Home -->
+          <li class="nav-item">
+            <a class="nav-link">Home</a>
+          </li>
+
+          <!-- Committees -->
           <li class="nav-item dropdown">
-            <a
-              class="nav-link dropdown-toggle"
-              id="navbarDropdownMenuLink"
-              data-toggle="dropdown"
-              aria-haspopup="true"
-              aria-expanded="false"
-              >Committees</a
-            >
-
-            <div
-              class="dropdown-menu dropdown-primary"
-              aria-labelledby="navbarDropdownMenuLink"
-            >
-              <a class="dropdown-item" href="#">Advisory Committee</a>
-
-              <a class="dropdown-item" href="#">Organising Committee</a>
-
-              <a class="dropdown-item" href="#">Technical Committee</a>
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown">
+              Committees
+            </a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item">Advisory Committee</a>
+              <a class="dropdown-item">Organising Committee</a>
+              <a class="dropdown-item">Technical Committee</a>
             </div>
           </li>
 
+          <!-- Call for Papers -->
           <li class="nav-item dropdown">
-            <a
-              class="nav-link dropdown-toggle"
-              id="navbarDropdownMenuLink"
-              data-toggle="dropdown"
-              aria-haspopup="true"
-              aria-expanded="false"
-              >Call for Papers</a
-            >
-
-            <div
-              class="dropdown-menu dropdown-primary"
-              aria-labelledby="navbarDropdownMenuLink"
-            >
-              <a class="dropdown-item" href="#">Call for Papers</a>
-
-              <a class="dropdown-item" href="#">Tracks / Topics</a>
-
-              <a class="dropdown-item" href="#">Special Session</a>
-
-              <a class="dropdown-item" href="#">Camera Ready Submission Instructions</a>
-
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown">
+              Call for Papers
+            </a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item">Call for Papers</a>
+              <a class="dropdown-item">Tracks / Topics</a>
+              <a class="dropdown-item">Special Session</a>
+              <a class="dropdown-item">Camera Ready Submission Instructions</a>
             </div>
           </li>
 
-          <a class="nav-link">Keynote Speakers</a>
+          <!-- Normal links -->
+          <li class="nav-item"><a class="nav-link">Keynote Speakers</a></li>
+          <li class="nav-item"><a class="nav-link">Program Schedule</a></li>
+          <li class="nav-item"><a class="nav-link">Workshops</a></li>
+          <li class="nav-item"><a class="nav-link">Registration</a></li>
 
-          <a class="nav-link">Program Schedule</a>
-
-          <a class="nav-link">Workshops</a>
-
-          <a class="nav-link">Registration</a>
+          <!-- Plan Travel -->
           <li class="nav-item dropdown">
-            <a
-              class="nav-link dropdown-toggle"
-              id="navbarDropdownMenuLink"
-              data-toggle="dropdown"
-              aria-haspopup="true"
-              aria-expanded="false"
-              >Plan Travel</a
-            >
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown">
+              Plan Travel
+            </a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item">About India</a>
+              <a class="dropdown-item">About Raipur</a>
+              <a class="dropdown-item">Travelling to Raipur</a>
+              <a class="dropdown-item">Conference Venue</a>
+              <a class="dropdown-item">Accommodation</a>
+            </div>
+          </li>
 
-            <div
-              class="dropdown-menu dropdown-primary"
-              aria-labelledby="navbarDropdownMenuLink"
-            >
-              <a class="dropdown-item" href="#">About India</a>
+          <li class="nav-item"><a class="nav-link">Downloads</a></li>
+          <li class="nav-item"><a class="nav-link">Partners</a></li>
 
-              <a class="dropdown-item" href="#">About Raipur</a>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/tourist">
+              Tourists Attraction
+            </router-link>
+          </li>
 
-              <a class="dropdown-item" href="#">Travelling to Raipur</a>
-            <a class="dropdown-item" href="#">Conference Venue</a>
+          <li class="nav-item"><a class="nav-link">Contact Us</a></li>
 
-              <a class="dropdown-item" href="#">Accomodation</a>
-
-              
-           </div>
-          </li>  
-          <a class="nav-link">Downloads</a> 
-
-           <a class="nav-link">Partners</a> 
-          <a class="nav-link" href="/tourist">Tourists Attraction</a>
-
-          <!-- <a href=""> Test </a> -->
-
-          <!-- <router-link class="nav-link" to="/tourist">Tourists Attraction</router-link> -->
-
-
-          <a class="nav-link">Contact Us</a>
         </ul>
-        <!-- Links -->
-
       </div>
-      <!-- Collapsible content -->
     </nav>
-    <!-- Navbar -->
   </header>
-  <!-- Navigation -->
 </template>
 
 <script>
@@ -132,3 +89,27 @@ export default {
   name: "Navbar",
 };
 </script>
+
+<style scoped>
+/* 🔥 Center everything */
+.navbar-nav {
+  gap: 10px;
+}
+
+/* Equal spacing */
+.nav-item {
+  display: flex;
+  align-items: center;
+}
+
+/* Clean hover */
+.nav-link {
+  cursor: pointer;
+  padding: 8px 12px;
+}
+
+/* Dropdown fix */
+.dropdown-menu {
+  text-align: left;
+}
+</style>
