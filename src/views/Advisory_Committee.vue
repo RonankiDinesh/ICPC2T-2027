@@ -7,11 +7,9 @@
         <h2 class="font-weight-bold mt-3">
           <strong>Advisory Board Members (Tentative)</strong>
         </h2>
-        <hr class="red title-hr" />
 
         <!-- International Advisory Board -->
         <h3 class="mt-4"><strong>International Advisory Board Members</strong></h3>
-        <hr class="red title-hr" />
         <p class="article">
           <span>Prof. Bikash Pal, Imperial College London</span><br />
           <span>Prof. Ayman El-Refaie, Marquette University, USA</span><br />
@@ -28,7 +26,6 @@
 
         <!-- National Advisory Board -->
         <h3 class="mt-4"><strong>National Advisory Board Members</strong></h3>
-        <hr class="red title-hr" />
         <p class="article">
           <span>Prof. Bijay Ketan Panigrahy, IIT Delhi</span><br />
           <span>Prof. Sukumar Mishra, IIT(ISM) Dhanbad</span><br />

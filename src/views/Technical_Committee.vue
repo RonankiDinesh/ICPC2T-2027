@@ -6,7 +6,6 @@
         <h2 class="font-weight-bold mt-3">
           <strong>Technical Program Committee (Tentative)</strong>
         </h2>
-        <hr class="red title-hr" />
 
         <p class="article">
           <span>Prof. B. Bhattacharyya, IIT (ISM) Dhanbad</span><br />

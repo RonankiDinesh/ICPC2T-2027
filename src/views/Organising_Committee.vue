@@ -6,7 +6,6 @@
         <h2 class="font-weight-bold mt-3">
           <strong>Organizing Committee</strong>
         </h2>
-        <hr class="red title-hr" />
 
         <div class="content">
           <p class="article">
